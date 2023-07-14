@@ -1,0 +1,27 @@
+.l1{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border: 2px black solid;
+    margin: 2px;
+}
+.l1 > p {border: 2px black solid};
+
+.l2{
+    background-color: blue;
+    width: 350px;
+    height: 350px;
+    border: 2px black solid; 
+}
+
+.l2 > p{ border: 2px black solid;}
+
+
+.l3{
+    background-color: chartreuse;
+    width: 600px;
+    height: 600px;
+    border: 2px black solid;
+}
+
+.l3 > p { border: 2px black solid;}
